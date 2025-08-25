@@ -1,2 +1,3 @@
 # AulaEngSoftware
 Exercício para o TF!
+O GitHub é importante no versionamento de software porque ajuda a organizar e controlar todas as mudanças feitas no código. Ele facilita muito o trabalho em equipe, já que várias pessoas podem colaborar ao mesmo tempo sem atrapalhar umas às outras. Além disso, permite voltar em versões anteriores quando acontece algum erro e mantém o histórico completo do projeto, deixando tudo mais seguro e confiável.
